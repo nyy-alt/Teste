@@ -1,48 +1,39 @@
- <!DOUCTYPE html>
- <html>
- <head>
-   <title> oi, kskdksk</
-title>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Cantinho</title>
   <style>
-   body {
-     background:
- #f3e8ff;
-     color: #6b21a8;
-     text-align: center;
-     font-family: arial;
-     padding: 30px;
-   }
+    body {
+      background: #f3e8ff;
+      color: #6b21a8;
+      text-align: center;
+      font-family: Arial;
+      padding: 30px;
+    }
 
-  h1 {
-    color: #9333ea;
-  }
+    h1 {
+      color: #9333ea;
+    }
 
- button {
-  background:
-#9333ea;
-     color: white;
-     border: none;
-     padding: 10px;
-     border-radius:
-10px;
-   }
+    button {
+      background: #9333ea;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 10px;
+    }
   </style>
 </head>
 
 <body>
- <h1> provas né 🤮🤮</
-h1>
+  <h1>Meu Cantinho 💜</h1>
 
-<p>Oi! infelizmente tive que gastar meu tempo criando isso pra provar que da pra fazer facilmente um se vc nao tiver o QI tao baixo.</p>
+  <p>Oi! Seja bem-vindo ao meu site.</p>
 
- <button
-onclick="alert('obrigada por visitar')">
+  <p>Eu gosto de música, K-pop e aprender coisas novas.</p>
+
+  <button onclick="alert('Obrigada por visitar! 💜')">
     Clique aqui
   </button>
 </body>
 </html>
-
-
-
-
-
