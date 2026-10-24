@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meu Cantinho</title>
+  <title>provas</title>
   <style>
     body {
       background: #f3e8ff;
@@ -26,13 +26,11 @@
 </head>
 
 <body>
-  <h1>Meu Cantinho 💜</h1>
+  <h1>provas</h1>
 
-  <p>Oi! Seja bem-vindo ao meu site.</p>
+  <p>Oi! Seja bem-vindo ao meu site de provas.</p>
 
-  <p>Eu gosto de música, K-pop e aprender coisas novas.</p>
-
-  <button onclick="alert('Obrigada por visitar! 💜')">
+  <button onclick="alert('Obrigada por visitar')">
     Clique aqui
   </button>
 </body>
