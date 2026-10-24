@@ -1,0 +1,48 @@
+ <!DOUCTYPE html>
+ <html>
+ <head>
+   <title> oi, kskdksk</
+title>
+  <style>
+   body {
+     background:
+ #f3e8ff;
+     color: #6b21a8;
+     text-align: center;
+     font-family: arial;
+     padding: 30px;
+   }
+
+  h1 {
+    color: #9333ea;
+  }
+
+ button {
+  background:
+#9333ea;
+     color: white;
+     border: none;
+     padding: 10px;
+     border-radius:
+10px;
+   }
+  </style>
+</head>
+
+<body>
+ <h1> provas né 🤮🤮</
+h1>
+
+<p>Oi! infelizmente tive que gastar meu tempo criando isso pra provar que da pra fazer facilmente um se vc nao tiver o QI tao baixo.</p>
+
+ <button
+onclick="alert('obrigada por visitar')">
+    Clique aqui
+  </button>
+</body>
+</html>
+
+
+
+
+
